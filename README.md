@@ -1,7 +1,7 @@
 ## Hello World, 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrennoGomesAraujo&hide_progress=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrennoGomesAraujo&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrennoGomesAraujo&show_icons=true&theme=dracula)
 <!--
 **BrennoGomesAraujo/BrennoGomesAraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
