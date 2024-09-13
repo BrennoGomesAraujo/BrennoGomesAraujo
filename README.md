@@ -1,4 +1,4 @@
-## Hello World, It's me, Brenno
+## Hello World, It's me Brenno
 
 <h3 align="left">My Languages:</h3>
 
